@@ -8,7 +8,7 @@ I'm Marita, nice to meet you! I started coding when having too much time on my h
 - ⚡ Fun fact: There are around 700 separate programming languages
 
 ### LANGUAGES 
-<img src="{https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white}"
+<img src="{[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white]}"
      https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
      https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
      https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
