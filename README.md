@@ -3,7 +3,7 @@
 I'm Marita, nice to meet you! I started coding when having too much time on my hand during Covid-19, which then led me to start studying front-end development at Noroff - School of Technology and Digital Media :nerd_face: I am just about to finish my first year of school, and got one more year to go. Extremly excited about learning new coding languages, and even though it can be really challenging sometimes, it's also very rewarding. I look forward to seeing what the future holds once I'm done with school. I hope to one day be able to combine full-time travels with a front-end job :earth_americas: Happy coding!
 
 - 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning JavaScript
+- 🌱 JavaScript is what occupies my mind atm 
 - 📫 Connect with me: www.linkedin.com/in/marita-malvinsdatter-stenersen
 - ⚡ Fun fact: There are around 700 separate programming languages
 
