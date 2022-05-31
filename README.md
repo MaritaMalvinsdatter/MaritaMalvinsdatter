@@ -13,7 +13,7 @@ I'm Marita, nice to meet you! I started coding when having too much time on my h
 #### OTHER LEARNING SPACES
 <img src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white"/> <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347"/>
 
-### CONNECT
+<!-- ### CONNECT
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marita-malvinsdatter-stenersen)
-
+ -->
 
