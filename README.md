@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Marita, nice to meet you! I started coding when having too much time on my hand during Covid-19, which then led me to start studying frontend development at Noroff - School of Technology and Digital Media :nerd_face: I've just started my second year and will be finished in Oct 2023! Extremly excited about learning new coding languages, and even though it can be really challenging sometimes it's also very rewarding. I look forward to seeing what the future holds once I'm done with school. I hope to one day be able to combine full-time travels with a front-end job :earth_americas: Happy coding!
+I'm Marita, nice to meet you! I started coding when having too much time on my hand during Covid-19, which then led me to start studying frontend development at Noroff - School of Technology and Digital Media :nerd_face: I'm just about to finish my second year in October! After that I plan on studying back-end part time whilst hopefully being in a new job as a frontend dev 🤩 Extremly excited about learning new coding languages, and even though it can be really challenging sometimes it's also very rewarding. I look forward to seeing what the future holds once I'm done with school. Happy coding!
 
 - 👩‍💻 Looking for work in Oslo
 - 🔭 I’m currently practising React whilst doing my final exam
