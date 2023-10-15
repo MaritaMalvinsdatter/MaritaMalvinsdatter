@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-I'm Marita, nice to meet you! I started coding when having too much time on my hand during Covid-19, which then led me to start studying frontend development at Noroff - School of Technology and Digital Media: I'm just about to finish my second year in October! After that I plan on studying back-end part time whilst hopefully being in a new job as a frontend dev 🤩 Extremly excited about learning new coding languages, and even though it can be really challenging sometimes it's also very rewarding. I look forward to seeing what the future holds once I'm done with school. Happy coding!
+I'm Marita, nice to meet you! I'm a junior front-end develper looking for new opportunities, whilst studying back-end.
+I started coding when having too much time on my hand during Covid-19, which then led me to start studying frontend development at Noroff - School of Technology and Digital Media. Excited about learning new coding languages, and even though it can be really challenging sometimes it's also very rewarding. I love starting with a blanck page and turning into a working project. Happy coding!
 
 - 👩‍💻 Looking for work in Oslo
-- 🔭 I’m currently practising React whilst doing my final exam
-- 🌱 JavaScript & React occupies my mind atm 
+- 🔭 I’m currently learning Angular
+- 🌱 JavaScript & Angular occupies my mind atm 
 - 📫 Connect with me: www.linkedin.com/in/marita-malvinsdatter-stenersen
 - ⚡ Fun fact: There are around 700 separate programming languages - how the heck do you chose which one to learn next?!
 
